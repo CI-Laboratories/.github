@@ -4,3 +4,10 @@
  * POST: /create_organization_repo
  * POSt: /clone_repo
  * POST: /check_for_changes
+ * GET:  /metrics
+ * GET:  /index
+
+## Apple-API
+* GET:  /index
+* GET:  /metrics
+* GET:  /get_battery_level
